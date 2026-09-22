@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+!(:))[HelloAnimation.gif]
+
 <!--
 **filips0108/filips0108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
