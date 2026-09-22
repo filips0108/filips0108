@@ -1,8 +1,8 @@
-<img width="1584" height="396" alt="nzm sta da stavim ovde" src="https://github.com/user-attachments/assets/c0a7a13e-d984-4432-84c5-56efa19a9b81" />
+<img width="1584" height="396" alt="cao :)" src="https://github.com/user-attachments/assets/c23814b3-4749-4301-a09c-eb244558609a" />
 
 # 👋 Hello! | Ћао / Ćao ! | 你好! | Ciao! | Hallo! | ...
 
-I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**. I am apart of the **Specialized faculty for students with exceptional abilities in computer science and informatics**. 
+I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**. I am a part of the **Specialized department for students with exceptional abilities in computer science and informatics**. 
 
 # 🗂️ Projects
 
@@ -21,6 +21,12 @@ I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**.
 
 <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
 
+## 📁 FDL - Interpreted Programing Language
+
+
+#### Languages used:
+
+<img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
 
 ## Languages
 
