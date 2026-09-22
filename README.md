@@ -1,6 +1,4 @@
-<video autoplay loop muted playsinline width="1000">
-  <source src="HelloAnimation.mp4" type="video/mp4">
-</video>
+![](HelloAnimation.gif)
 
 
 # Introduction
