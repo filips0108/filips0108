@@ -8,8 +8,8 @@ I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**.
 
 
 ## 💻 maxl - Virtual file-manager CLI
-
-
+ 
+ 
 #### Languages used:
 
 <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
@@ -21,7 +21,7 @@ I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**.
 
 <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
 
-## 📁 FDL - Interpreted Programing Language
+## 🗒️ FDL - Interpreted Programing Language
 
 
 #### Languages used:
@@ -31,6 +31,8 @@ I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**.
 ## Languages
 
 <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="52"/>
+
 <img src="https://github.com/user-attachments/assets/80ea843f-d610-44c6-9c9a-f71b51aac3ac" alt="C++" width="52"/>
+
 <img src="https://github.com/user-attachments/assets/ff5f9f81-fb49-493b-99e0-e10d0b390138" alt="HTML" width="52"/>
 
