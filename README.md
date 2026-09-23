@@ -2,7 +2,7 @@
 
 # 👋 Hello! | Ћао / Ćao ! | 你好! | Ciao! | Hallo! | ...
 
-I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**. I am a part of the **Specialized department for students with exceptional abilities in computer science and informatics**. 
+I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš, Serbia**. I am a part of the **Specialized department for students with exceptional abilities in computer science and informatics**. 
 
 ## 🗂️ Projects
 
