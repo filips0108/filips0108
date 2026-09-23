@@ -6,29 +6,19 @@ I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**.
 
 # 🗂️ Projects
 
+| Project Name | Quick Description | Languages Used |
+|---|---|---|
+| [maxl](https://github.com/filips0108/maxl) | Virtual file-manager CLI | <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>|
+| futils | CLI file-manager | <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>|
+| FDL | Interpreted Programing Language | <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>|
 
-## 💻 maxl - Virtual file-manager CLI
- 
- 
-#### Languages used:
+##### **SEE MORE**
 
-<img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
+#### Languages most used:
 
-## 📁 futils - CLI file-manager
+1. <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
 
-
-#### Languages used:
-
-<img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
-
-## 🗒️ FDL - Interpreted Programing Language
-
-
-#### Languages used:
-
-<img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
-
-## Languages
+## 🖥️ Languages
 
 <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="52"/>
 
