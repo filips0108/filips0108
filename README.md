@@ -14,8 +14,12 @@ I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**.
 | [***SEE MORE***](Projects.md) | [***SEE MORE***](Projects.md) | ... | [***SEE MORE***](Projects.md) |
 
 
-## 🖥️ Languages most used by me:
+## 🖥️ Languages I Use
 
-1. <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>
-2. <img src="https://github.com/user-attachments/assets/80ea843f-d610-44c6-9c9a-f71b51aac3ac" alt="C++" width="25"/>
-3. <img src="https://github.com/user-attachments/assets/ff5f9f81-fb49-493b-99e0-e10d0b390138" alt="HTML" width="25"/>
+<img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="35"/>
+
+
+<img src="https://github.com/user-attachments/assets/80ea843f-d610-44c6-9c9a-f71b51aac3ac" alt="C++" width="35"/>
+
+
+<img src="https://github.com/user-attachments/assets/ff5f9f81-fb49-493b-99e0-e10d0b390138" alt="HTML" width="35"/>
