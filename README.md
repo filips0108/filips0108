@@ -9,7 +9,7 @@ I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš**.
 | Project Name | Quick Description | ... | Languages Used |
 |---|---|---|---|
 | [maxl](https://github.com/filips0108/maxl) | Virtual file-manager CLI | ... | <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>|
-| futils | CLI file-manager | ... | <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>|
+| [futils](https://github.com/filips0108/futils) | CLI file-manager | ... | <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>|
 | FDL | Interpreted Programing Language | ... | <img src="https://github.com/user-attachments/assets/354d31ae-80b4-4851-9430-455298a603d4" alt="Python" width="25"/>|
 | [***SEE MORE***](Projects.md) | [***SEE MORE***](Projects.md) | ... | [***SEE MORE***](Projects.md) |
 
