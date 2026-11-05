@@ -1,5 +1,3 @@
-<img width="1584" height="396" alt="cao :)" src="https://github.com/user-attachments/assets/c23814b3-4749-4301-a09c-eb244558609a" />
-
 # 👋 Hello! | Ћао / Ćao ! | 你好! | Ciao! | Hallo! | ...
 
 I`m *Filip Stojanović*, a student at the **gymnasium "Bora Stanković", Niš, Serbia**. I am a part of the **Specialized department for students with exceptional abilities in computer science and informatics**. 
